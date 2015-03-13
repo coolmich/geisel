@@ -1,0 +1,5 @@
+#!/bin/bash      
+
+# sudo cp geisel /usr/bin/
+# attention to the folder this file is in
+python ~/beautiful/geisel.py $*
